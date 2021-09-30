@@ -7,7 +7,8 @@
 <body>
 
 <h1> Hannah's Bio </h1>
-<p> Ciao! My name is Hannah. I'm 22. I recently graduated from Western University, with a degree in Foriegn Language and Culture Studies, and University of Toronto with a certificate in TEFL. I decided to take this course last minute, and it is very different to my usual area of study. Therefore, it is all quite new to me! Some of my hobbies include photography, watching old cinema, language learning, and of course, playing Super Smash Bros. I was actually first introduced to html and css when I was 13, and I was using it on Tumblr! Throwback.  
+<p style="color:lightblue"> Ciao! My name is Hannah. I'm 22. I recently graduated from Western University, with a degree in Foriegn Language and Culture Studies, and University of Toronto with a certificate in TEFL. I decided to take this course last minute, and it is very different to my usual area of study. Therefore, it is all quite new to me! Some of my hobbies include photography, watching old cinema, language learning, and of course, playing Super Smash Bros. I was actually first introduced to html and css when I was 13, and I was using it on Tumblr! Throwback.  
+
 
 
 <h1>Hannah's Mains</h1>
