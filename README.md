@@ -17,7 +17,9 @@ Don't.
 ## History
 
 Evan - Created repo
+
 Hannah - Added images and updated readme
+
 Evan - Added images, created folders, created index.html, and updated the readme
 
 ## License
